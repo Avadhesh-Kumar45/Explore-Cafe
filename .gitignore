@@ -1,0 +1,37 @@
+# Node
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+
+# Vite / build
+/dist/
+/build/
+/.turbo/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Misc
+/.cache/
+coverage/
+.nyc_output/
+
+# Optional: local JetBrains
+/.idea/

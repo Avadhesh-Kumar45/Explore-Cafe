@@ -168,7 +168,7 @@ Explore Cafe is distributed under the **MIT License**. For more details, see the
 
 ## 📞 Get in Touch!
 
-Have questions or feedback? Reach out to Aditya Chandra at [sv876773@gmail.com].
+Have questions or feedback? Reach out to Avadhesh Kumar at [sv876773@gmail.com].
 
 ---
 
